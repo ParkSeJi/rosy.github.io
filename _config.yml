@@ -15,11 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme : mmistakes/jekyll-theme-basically-basic
+
 lang: en-US
 title: My Rose 
 email:
 description:
-baseurl: "" # the optional subpath of your site, e.g. "/blog"
+baseurl: ""
 url: "https://rosy.github.io"
 author:
   name:
